@@ -22,5 +22,10 @@ Track Interesting DNN Papers
 - Densely Connected Convolutional Networks (DenseNet) [(PAPER)](https://arxiv.org/pdf/1608.06993v2.pdf)
   - An extension of Resnet that connects each layer with all its previous layers.
   - Table 2: is very good summary of all related techniques, its layer number and final performance.
-
+- Listen, Attend and Spell [(PAPER)](https://arxiv.org/abs/1508.01211)
+  - From audio signal to english character output
+  - Uses Pyramid-like RNN to compress input length (audio frames too long), and pass to attention mechanism
+  - Still big gap compared to state-of-the-art (10.3 vs 8.0)
+ 
+ 
 
