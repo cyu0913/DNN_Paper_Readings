@@ -13,4 +13,6 @@ Track Interesting DNN Papers
   - encoder: causal convolution (with dilated convolustion + residual blocks).
 - Google's Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation [(PAPER)](https://arxiv.org/pdf/1611.04558v1.pdf)
   - Key: Could translate language pair not exist during training.
- 
+- Densely Connected Convolutional Networks (DenseNet) [(PAPER)](https://arxiv.org/pdf/1608.06993v2.pdf)
+  - An extension of Resnet that connects each layer with all its previous layers.
+  - Table 2: is very good summary of all related techniques, its layer number and final performance.
