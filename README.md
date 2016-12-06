@@ -26,6 +26,9 @@ Track Interesting DNN Papers
   - From audio signal to english character output
   - Uses Pyramid-like RNN to compress input length (audio frames too long), and pass to attention mechanism
   - Still big gap compared to state-of-the-art (10.3 vs 8.0)
- 
+- Neural Speech Recognizer: Acoustic-to-Word LSTM Model for Large Vocabulary Speech Recognition [(PAPER)](https://arxiv.org/pdf/1610.09975v1.pdf)
+  - CTC with words as output, outperform previous character output based
+  - uses 120000 hours of data, to resolve the sparseness problem of using words as output.
+  - No language model, and no decoding.
  
 
