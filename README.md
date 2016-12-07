@@ -1,6 +1,5 @@
 # DNN_Paper_Readings
-Track Interesting DNN Papers 
-
+## Already Read 
 - Fully Character-Level Neural Machine Translation without Explicit Segmentation [(PAPER)](https://arxiv.org/pdf/1610.03017v2.pdf)
   - character-character translation
   - encoder: uses convolutional and pooling layer to reduce the input length, and pass to highway network followed by bidirectional GRU.
@@ -32,3 +31,6 @@ Track Interesting DNN Papers
   - No language model, and no decoding.
  
 
+## To Read
+- Dual Learning for Machine Translation ([PAPER])(https://arxiv.org/pdf/1611.00179v1.pdf)
+- Deep Residual Learning for Image Recognition ([PAPER])(http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
