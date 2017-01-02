@@ -29,7 +29,11 @@
   - CTC with words as output, outperform previous character output based
   - uses 120000 hours of data, to resolve the sparseness problem of using words as output.
   - No language model, and no decoding.
- - Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation [(PAPER)](https://arxiv.org/pdf/1612.01744v1.pdf)
+- Listen and Translate: A Proof of Concept for End-to-End Speech-to-Text Translation [(PAPER)](https://arxiv.org/pdf/1612.01744v1.pdf)
+  - Direct Speech-to-Text Language translation.
+  - Only proof-of-concept so far
+  - Very close what we're trying now
+  - 
  
 
 ## To Read
