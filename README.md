@@ -39,7 +39,16 @@
   - Propose beam search with character language model
   - very good performance
   - provide some baseline on SWBD tasks
-
+- Deep Speech 1 [(PAPER)](https://arxiv.org/pdf/1412.5567v2.pdf)
+  - CTC with characters as targets
+  - eval2000 WER (17%) with swbd 300hour training, (12%) with swbd+fisher training
+  - Uses full decoding with N-gram
+- Advances In All-Neural Speech Recognition [(PAPER)](https://arxiv.org/abs/1609.05935)
+  - targeting decoding free speech recognition
+  - better symbol inventories, iterated CTC
+  - good benchmark performance of CTC with characters as targets
+  - still big gap with using fully decoding
+  
 ## To Read
 - Dual Learning for Machine Translation ([PAPER])(https://arxiv.org/pdf/1611.00179v1.pdf)
 - Deep Residual Learning for Image Recognition ([PAPER])(http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
