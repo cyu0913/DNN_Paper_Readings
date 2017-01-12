@@ -33,8 +33,12 @@
   - Direct Speech-to-Text Language translation.
   - Only proof-of-concept so far
   - Very close what we're trying now
-  - 
- 
+- Connectionist Temporal Classification: Labelling Unsegmented Sequence Data with Recurrent Neural Networks [(PAPER)](http://machinelearning.wustl.edu/mlpapers/paper_files/icml2006_GravesFGS06.pdf)
+  - Originial CTC paper by Alex Grave
+- Lexicon-Free Conversational Speech Recognition with Neural Networks [(PAPER)](http://ai.stanford.edu/~amaas/papers/ctc_clm_naacl_2015.pdf)
+  - Propose beam search with character language model
+  - very good performance
+  - provide some baseline on SWBD tasks
 
 ## To Read
 - Dual Learning for Machine Translation ([PAPER])(https://arxiv.org/pdf/1611.00179v1.pdf)
