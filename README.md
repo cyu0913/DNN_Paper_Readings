@@ -48,7 +48,10 @@
   - better symbol inventories, iterated CTC
   - good benchmark performance of CTC with characters as targets
   - still big gap with using fully decoding
-  
+- A Study of the Recurrent Neural Network Encoder-Decoder for Large Vocabulary Speech Recognition  [(PAPER)](http://www.cstr.ed.ac.uk/downloads/publications/2015/liang_is15a.pdf)
+  - Attention based encoder-decoder for SWBD speech recognition
+  - Uses word as outputs (interesting to see the performance when words are used as target (38% on eval2000)
+
 ## To Read
 - Dual Learning for Machine Translation ([PAPER])(https://arxiv.org/pdf/1611.00179v1.pdf)
 - Deep Residual Learning for Image Recognition ([PAPER])(http://www.cv-foundation.org/openaccess/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
