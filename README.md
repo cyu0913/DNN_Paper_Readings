@@ -51,7 +51,7 @@
 - A Study of the Recurrent Neural Network Encoder-Decoder for Large Vocabulary Speech Recognition  [(PAPER)](http://www.cstr.ed.ac.uk/downloads/publications/2015/liang_is15a.pdf)
   - Attention based encoder-decoder for SWBD speech recognition
   - Uses word as outputs (interesting to see the performance when words are used as target (38% on eval2000)
-- Effective Approaches to Attention-based Neural Machine Translation [(PAPER)](Effective Approaches to Attention-based Neural Machine Translation)
+- Effective Approaches to Attention-based Neural Machine Translation [(PAPER)](http://www.aclweb.org/anthology/D15-1166)
   - Local Attention
   - Easy to read code [(MATLAB)](https://github.com/lmthang/nmt.matlab)
 
